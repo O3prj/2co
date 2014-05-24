@@ -38,8 +38,8 @@
 2. [リンク2][link]
     - [![画像2][image]](url)
  
-  [link]: http://example.com/ "インデックス型のリンク"
-  [image]: http://github.com/github.png "インデックス型の画像"
+  [link]: url "インデックス型のリンク"
+  [image]: url "インデックス型の画像"
  
 ### 引用、ネストした引用
 > これは引用です。
